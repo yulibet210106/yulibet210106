@@ -21,15 +21,12 @@ Mi objetivo es seguir creciendo profesionalmente y aportar valor en proyectos de
 
 ### 🗄️ Tecnologías & Bases de Datos
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ### 🧰 Herramientas
 ![Git](https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-basic-2496ed?style=flat&logo=docker&logoColor=white)
-
 ## 🌱 Proyectos
 - **Proyecto 1:** Aplicación web desarrollada con JavaScript y React.
 - **Proyecto 2:** API REST con Node.js, Express y base de datos SQL/NoSQL.
