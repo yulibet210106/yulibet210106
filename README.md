@@ -87,5 +87,6 @@ Estoy interesada en nuevas oportunidades de desarrollo y estoy abierta a contrib
 - **Email:** [tuemail@gmail.com](yulibetquiroga@gmail.com)
 - **LinkedIn:** [tu-perfil-linkedin](https://www.linkedin.com/in/yuly-mendoza-bba899371/)
 - **Github:**[tu-perfil-Github](https://github.com/yulibet210106/)
+-  [linkedin](https://www.linkedin.com/in/yuly-mendoza-bba899371/)
 
 ¡Gracias por visitar mi perfil! Estoy ansiosa por aprender y crecer en el emocionante mundo del desarrollo web.
