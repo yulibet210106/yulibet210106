@@ -1,90 +1,44 @@
-👩‍💻 
-Soy una programadora fullstack con una fuerte pasión por la tecnología y el desarrollo de software. Recientemente he completado parte de mi formación en Kambcode como Desarrolladora fullsatck en JavaScript, continuo mi formacion en la Universidad Latinoamericana en Línea (Licenciada en Sistemas Computacionales), estoy entusiasmada por aplicar mis habilidades en JavaScript para crear aplicaciones web dinámicas y funcionales. Mi objetivo es continuar aprendiendo y desarrollándome en un entorno profesional.
+# 👩‍💻 Hola, soy [Tu Nombre]
 
-## 🛠 Habilidades Técnicas
+Soy **programadora Full Stack** con enfoque en **JavaScript**, apasionada por el desarrollo web.
 
-- **Frontend:**
-  - JavaScript ES6+
-  - HTML5 y CSS3
-  - Frameworks: React
-  - Diseño Responsivo y Accesibilidad
+Me formé como **Desarrolladora Full Stack en JavaScript en Kambcode** y actualmente curso la **Licenciatura en Sistemas Computacionales** en la Universidad Latinoamericana en Línea.  
+Mi objetivo es seguir creciendo profesionalmente y aportar valor en proyectos desafiantes 🚀
 
-- **Backend:**
-  - Node.js y Express
-  - Bases de Datos NoSQL: MongoDB
-  - Construcción de APIs RESTful
+---
 
-- **Herramientas y Tecnologías:**
-  - Git y GitHub
-  - Docker (conceptos básicos)
+## 🛠️ Habilidades 
 
-## 📚 Formación
+### 💻 Lenguajes de Programación
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-f7df1e?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white)
 
-- **Desarrolladora Full-Stack en JavaScript**  
-  *[Fecha de inicio:1/06/2024  - Fecha de finalización: 3/06/2025]*  
+### ⚛️ Frameworks & Librerías
+![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61dafb)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=flat&logo=bootstrap&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 
-## 📚 Formación en Desarrollo Web y Gestión de Bases de Datos
+### 🗄️ Tecnologías & Bases de Datos
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-He adquirido un sólido conocimiento en desarrollo web y gestión de bases de datos, centrándome en crear aplicaciones interactivas y eficientes. Durante mi formación, desarrollé habilidades técnicas en las siguientes áreas:
+### 🧰 Herramientas
+![Git](https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-basic-2496ed?style=flat&logo=docker&logoColor=white)
 
-### Desarrollo Web
+## 🌱 Proyectos
+- **Proyecto 1:** Aplicación web desarrollada con JavaScript y React.
+- **Proyecto 2:** API REST con Node.js, Express y base de datos SQL/NoSQL.
 
-- **Frontend:** 
-  - Desarrollé interfaces de usuario utilizando HTML, CSS y JavaScript, implementando principios de diseño responsivo para asegurar una experiencia óptima en dispositivos móviles y de escritorio. 
-  - Utilicé frameworks como Bootstrap para mejorar la estética y la funcionalidad de las aplicaciones.
-
-- **Interactividad:** 
-  - Creé aplicaciones web dinámicas con la capacidad de manejar interacciones del usuario, como la gestión de listas de tareas, donde los usuarios pueden añadir, editar y eliminar elementos en tiempo real.
-
-### Gestión de Bases de Datos
-
-- **SQL:** 
-  - Me especialicé en el uso de SQL para crear, administrar y consultar bases de datos.
-  - Implementé funciones CRUD (Crear, Leer, Actualizar, Eliminar) para manejar información de productos y gestionar inventarios de manera eficiente.
-  - Adquirí experiencia en la escritura de consultas SQL complejas para extraer datos relevantes y presentar informes significativos.
-
-### Herramientas y Tecnologías Aprendidas
-
-- Utilicé herramientas de control de versiones como Git para gestionar el código fuente y colaborar en proyectos.
-- Aprendí a trabajar con bases de datos relacionales como MySQL y PostgreSQL, asegurando la integridad y accesibilidad de los datos.
-- Desarrollo Frontend:
-
-• HTML5: Estructuración de contenido web.
-
-• CSS3: Estilización de páginas web y diseño responsivo.
-
-• JavaScript: Programación dinámica en el navegador para mejorar la interactividad y la experiencia del usuario.
-
-• Bootstrap: Framework CSS para el diseño y la implementación de interfaces responsivas.
-
-• Desarrollo Backend:
-
-• Node.js: Ejecución de código JavaScript en el servidor, permitiendo la creación de aplicaciones web escalables y eficientes.
-
-• Express: Framework para Node.js que facilita la construcción de aplicaciones y APIs web.
-
-• Bases de Datos:
-
-• SQL: Lenguaje para la gestión y manipulación de bases de datos.
-
-• MySQL: Sistema de gestión de bases de datos relacionales utilizado para almacenar y gestionar datos estructurados.
-
-• PostgreSQL: Sistema de gestión de bases de datos relacionales avanzado con características extensivas.
-
-• Control de Versiones:
-
-• Git: Herramienta de control de versiones para gestionar cambios en el código y colaborar en proyectos de desarrollo.
-
-## 🌱 Proyectos Personales
-
-- **[Nombre del Proyecto 1](enlace-al-proyecto)**: Breve descripción del proyecto, tecnologías utilizadas y tu rol.
-- **[Nombre del Proyecto 2](enlace-al-proyecto)**: Breve descripción del proyecto, tecnologías utilizadas y tu rol.
+---
 
 ## 📫 Contacto
-
 Estoy interesada en nuevas oportunidades de desarrollo y estoy abierta a contribuir en proyectos desafiantes. Puedes contactarme a través de:
 
--  [email](yulibetquiroga@gmail.com)
 -  [Github](https://github.com/yulibet210106/)
 -  [linkedin](https://www.linkedin.com/in/yuly-mendoza-bba899371/)
 
