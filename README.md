@@ -1,4 +1,4 @@
-# 👩‍💻 Hola, soy [Tu Nombre]
+# 👩‍💻 Hola, soy Carolina Mendoza
 
 Soy **programadora Full Stack** con enfoque en **JavaScript**, apasionada por el desarrollo web.
 
