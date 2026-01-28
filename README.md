@@ -84,7 +84,7 @@ He adquirido un sólido conocimiento en desarrollo web y gestión de bases de da
 
 Estoy interesada en nuevas oportunidades de desarrollo y estoy abierta a contribuir en proyectos desafiantes. Puedes contactarme a través de:
 
-- **Email:** [tuemail@gmail.com](yulymendoza78@gmail.com)
+- **Email:** [tuemail@gmail.com](yulibetquiroga@gmail.com)
 - **LinkedIn:** [tu-perfil-linkedin](https://www.linkedin.com/in/yuly-mendoza-bba899371/)
 - **Github:**[tu-perfil-Github](https://github.com/yulibet210106/)
 
