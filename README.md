@@ -27,9 +27,8 @@ Mi objetivo es seguir creciendo profesionalmente y aportar valor en proyectos de
 ### 🧰 Herramientas
 ![Git](https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-## 🌱 Proyectos
-- **Proyecto 1:** Aplicación web desarrollada con JavaScript y React.
-- **Proyecto 2:** API REST con Node.js, Express y base de datos SQL/NoSQL.
+## 🌱   Portafolio
+- ![Vercel](https://portafolio-dusky-ten.vercel.app/)
 
 ---
 
