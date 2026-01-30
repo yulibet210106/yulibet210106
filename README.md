@@ -28,7 +28,7 @@ Mi objetivo es seguir creciendo profesionalmente y aportar valor en proyectos de
 ![Git](https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ## 🌱   Portafolio
-- ![Vercel](https://portafolio-dusky-ten.vercel.app/)
+- Link: https://portafolio-dusky-ten.vercel.app/
 
 ---
 
