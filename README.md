@@ -1,4 +1,4 @@
-# 👩‍💻 Hola, soy Carolina Mendoza
+# 👩‍💻 Hola, soy Yuly Mendoza
 
 Soy **programadora Full Stack** con enfoque en **JavaScript**, apasionada por el desarrollo web.
 
