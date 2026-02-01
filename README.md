@@ -36,6 +36,6 @@ Mi objetivo es seguir creciendo profesionalmente y aportar valor en proyectos de
 Estoy interesada en nuevas oportunidades de desarrollo y estoy abierta a contribuir en proyectos desafiantes. Puedes contactarme a través de:
 
 -  [Github](https://github.com/yulibet210106/)
--  [linkedin](www.linkedin.com/in/yuly-mendoza/)
+-  [linkedin](https://www.linkedin.com/in/yuly-mendoza/)
 
 ¡Gracias por visitar mi perfil! Estoy ansiosa por aprender y crecer en el emocionante mundo del desarrollo web.
